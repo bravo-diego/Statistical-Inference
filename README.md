@@ -3,7 +3,7 @@ Statistical Inference Course MSc Statistical Computing CIMAT Monterrey
 
 ***
 
-This course is designed to teach learners beginning and intermediate concepts of statistical analysis and apply them using the R programming language. Learnes will be able to use data for estimation and assessing theories, construct confidence intervals, interpret inferential results, and apply advanced statistical modeling procedures.
+This course is designed to teach learners beginning and intermediate concepts of statistical analysis and apply them using the R programming language. Learners will be able to use data for estimation and assessing theories, construct confidence intervals, interpret inferential results, and apply advanced statistical modeling procedures.
 
 **Course**\
 Statistical Inference
