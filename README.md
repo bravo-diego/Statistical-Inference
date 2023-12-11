@@ -8,9 +8,12 @@ This course is designed to teach learners beginning and intermediate concepts of
 **Course**\
 Statistical Inference
 
-**Instructor**\
+**Instructors**\
 Dra. Graciela González Farías ([web site](https://www.bioestadistica.com/curriculums/gfarias.html))\
 _Titular Research Professor Class C at Mathematics Research Center (CIMAT)_
+
+Dr. José Ulises Márquez Urbina\
+_Research Professor SNI Level I at Mathematics Research Center (CIMAT)_
 
 _August 2023_
 
